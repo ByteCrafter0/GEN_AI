@@ -1,0 +1,33 @@
+
+# AI Model APIs
+openai
+groq
+google-genai
+
+python-dotenv
+
+numpy
+pandas
+
+streamlit
+fastapi
+uvicorn
+requests
+pydantic
+
+# Jupyter Notebook
+jupyter
+ipykernel
+
+# LangChain Integrations
+langchain
+langchain-openai
+langchain-groq
+langchain-google-genai
+
+faiss-cpu
+sentence-transformers
+pypdf
+beautifulsoup4
+langchain_huggingface
+python-dotenv
